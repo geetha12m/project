@@ -1,0 +1,67 @@
+body {background-color:#FAD987; }
+
+h1{text-decoration:underline; font-size:18px; }
+h4{text-decoration:underline; font-size:18px; }
+
+ul{list-style-type: square;}
+
+ol{list-style-type: numeric;}
+
+td
+{
+padding:18px;
+background-color:lightgrey;
+}
+
+table
+{
+border:3px solid black;
+}
+#qty
+{
+text-align:center;
+color:green;
+}
+
+#bday
+{
+text-align:center;
+color:orange;
+}
+
+#homepage
+{
+text-align:center;
+color:orange;
+}
+
+
+#day
+{
+text-align:center;
+color:orange;
+}
+
+#usr_time
+{
+text-align:center;
+color:orange;
+}
+
+div{
+    float:left;
+    margin-right:5px;
+}
+
+div > img{
+   height:200px;
+    width:272px;
+}
+
+#email
+{
+text-align:center;
+color:darkmagenta;
+font-style:italic;
+}
+
